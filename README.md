@@ -1,6 +1,6 @@
 # Recriando o dino 🚀
 
-### Projeto criado na Digital Innovation One usando apenas Javascript, CSS e HTML
+## Projeto criado na Digital Innovation One usando apenas Javascript, CSS e HTML
 
 ![screenshot do projeto](https://github.com/lgpgomes/dio-dino/blob/master/img/screenshot.png)
 
@@ -9,4 +9,5 @@
 
 [Veja o game em funcionamento! ✔](http://curriculo.fast-page.org/dio-dino-master/index.html)
 
- 
+ ## Licença
+Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
