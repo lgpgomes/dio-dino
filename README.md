@@ -7,7 +7,5 @@
 - [x] Criar a aplicação localmente.
 - [x] Subir para o github.
 
-[Veja o game em funcionamento! ✔](http://curriculo.fast-page.org/dio-dino-master/index.html)
-
  ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
