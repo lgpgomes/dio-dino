@@ -6,7 +6,9 @@
 
 - [x] Criar a aplicação localmente.
 - [x] Subir para o github.
-- Para rodar apenas abra o index.html.
+
+
+- Para rodar abra a index.html.
 
  ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
