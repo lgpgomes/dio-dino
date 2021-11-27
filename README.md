@@ -1,4 +1,4 @@
-# Recriando o dino 🚀
+# Recriando o Dino 🚀
 
 ## Projeto criado na Digital Innovation One usando apenas Javascript, CSS e HTML
 
@@ -6,6 +6,7 @@
 
 - [x] Criar a aplicação localmente.
 - [x] Subir para o github.
+- Para rodar apenas abra o index.html.
 
  ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
